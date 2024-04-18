@@ -46,11 +46,13 @@ A simple RAG system is developed that takes a user’s age, gender, and location
 ### Example Recommendations
 
 **For a 35-year-old female in California interested in Shoes**
+```bash
 Based on your interests in Shoes and considering your location in California, we recommend Converse because it has a high rating of 5 stars and is priced at just $49.50, fitting well within your budget.
-
+```
 **For a 55-year-old male in California interested in Sunglasses**
+```bash
 Based on your interests in Sunglasses and considering your location in California, we recommend Burberry because it has a high rating of 5 stars and is priced at just $87.50, fitting well within your budget.
-
+```
 
 ## Conclusion
 
