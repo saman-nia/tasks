@@ -27,6 +27,9 @@ Key insights derived from the EDA include relationships between price, click-thr
 Here are some of the key visualizations generated during the analysis:
 
 **Histogram of Prices**  
+![Pairplot with Distribution for Price and Ratings](price_and_ratings.png)
+
+**Histogram of Prices**  
 ![Histogram of Prices](path_to_histogram.png)
 
 **Scatter Plot of Click-through Rates vs. Ratings**  
