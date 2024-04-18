@@ -27,13 +27,13 @@ Key insights derived from the EDA include relationships between price, click-thr
 Here are some of the key visualizations generated during the analysis:
 
 **Histogram of Prices**  
-![Pairplot with Distribution for Price and Ratings](images/path_to_histogram.png)
+![Pairplot with Distribution for Price and Ratings](images/price_and_ratings.png)
 
 **Histogram of Prices**  
-![Histogram of Prices](path_to_histogram.png)
+![Histogram of Prices](images/path_to_histogram.png)
 
 **Scatter Plot of Click-through Rates vs. Ratings**  
-![Scatter Plot CTR vs Ratings](path_to_scatter_plot.png)
+![Scatter Plot CTR vs Ratings](images/path_to_scatter_plot.png)
 
 ## Part 2: Retrieval-Augmented Generation (RAG)
 
