@@ -49,6 +49,11 @@ This section creates a function to retrieve products based on user queries, e.g.
 
 A simple RAG system is developed that takes a user’s age, gender, and location as input to recommend relevant products. The system utilizes either a built retrieval model or existing data to make these recommendations.
 
+## Distribution of Product Ratings
+<p align="center">
+  <img src="images/distribution_product_rating.png" alt="Distribution of Product Ratings" width="500px"/>
+</p>
+
 ### Example Recommendations
 
 **For a 35-year-old female in California interested in Shoes**
