@@ -43,7 +43,7 @@ Here are some of the key visualizations generated during the analysis:
 
 ## Part 2: Retrieval-Augmented Generation (RAG)
 
-This section creates a function to retrieve products based on user queries, e.g., "best laptops under 500".
+This section creates a function to retrieve products based on user queries:
 
 ### Product Recommendation System
 
@@ -61,9 +61,9 @@ A simple RAG system is developed that takes a user’s age, gender, and location
 > Based on your interests in Shoes and considering your location in California, we recommend Converse because it has a high rating of 5 stars and is priced at just $49.50, fitting well within your budget.
 
 **For a 55-year-old male in California interested in Sunglasses**
-```bash
-Based on your interests in Sunglasses and considering your location in California, we recommend Burberry because it has a high rating of 5 stars and is priced at just $87.50, fitting well within your budget.
-```
+
+> Based on your interests in Sunglasses and considering your location in California, we recommend Burberry because it has a high rating of 5 stars and is priced at just $87.50, fitting well within your budget.
+
 
 ## Conclusion
 
